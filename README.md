@@ -20,8 +20,10 @@ The following key functionalities are provided:
 
 Pick the package matching your Motion Control version:
 
-- `laxisctrl-oop-v10`
-- `laxisctrl-oop-v9`
+| Package | Motion Control version |
+| --- | --- |
+| `@simatic-ax/laxisctrl-oop-v10` | V10 |
+| `@simatic-ax/laxisctrl-oop-v9` | V9 |
 
 Install with Apax:
 

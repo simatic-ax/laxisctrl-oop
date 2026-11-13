@@ -1,6 +1,6 @@
 USING AxUnit.Assert;
 
-NAMESPACE Simatic.Ax.laxisctrl-oop.Tests
+NAMESPACE Simatic.Ax.LaxisCtrl.Oop.Tests
     {TestFixture}
     CLASS MyTestFixture
         {Test}
